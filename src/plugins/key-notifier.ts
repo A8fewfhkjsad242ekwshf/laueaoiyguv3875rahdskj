@@ -16,7 +16,7 @@ class KeyNotifier {
 
     constructor() {
         this.bot = new Discord.Client();
-        this.bot.login('no u');
+        this.bot.login('NDY2NjU2MzQxMzE5MjIxMjU5.DjPHxQ.dGMGpSZkLOWfY8AW6dOIW4N0U7g');
         this.bot.once('ready', () => this.ready = true);
     }
 

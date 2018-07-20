@@ -12,7 +12,6 @@ import Discord = require('discord.js');
 import { IHeapItem } from '../services/pathfinding/heap-item';
 
 const fs = require("fs");
-const token = process.env.token
 
 var config = JSON.parse(fs.readFileSync("./realmtrack-config.json"));
 var realmPosList: string[][] = new Array();
@@ -41,7 +40,7 @@ class RealmTrack {
     private playerTracker: PlayerTracker;
     constructor() {
         this.bot = new Discord.Client();
-        this.bot.login('process.env.token');
+        this.bot.login('NDY2NjU2MzQxMzE5MjIxMjU5.DjPHxQ.dGMGpSZkLOWfY8AW6dOIW4N0U7g');
         this.bot.once('ready', () => this.ready = true);
         Client.on('connect', (pd, client: Client) => {
             this.loop(client, true);
