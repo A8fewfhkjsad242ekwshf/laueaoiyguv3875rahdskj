@@ -1,0 +1,387 @@
+Log Start (time: 1532080256568)
+MESSAGE [11:50:56 | NRelay]           Starting...
+INFO    [11:50:56 | NRelay]           Checking for updates...
+INFO    [11:50:58 | NRelay]           Adding Main Client
+INFO    [11:50:58 | ResourceManager]  Loaded 1283 tiles.
+INFO    [11:51:00 | ResourceManager]  Loaded 8334 objects.
+INFO    [11:51:00 | PluginManager]    Loaded Hello Plugin by tcrane
+INFO    [11:51:02 | PluginManager]    Loaded Key Notifier by Lolization
+INFO    [11:51:02 | PluginManager]    Loaded Player Tracker by tcrane
+INFO    [11:51:02 | PluginManager]    Loaded RealmTrack by Fluttar
+SUCCESS [11:51:02 | Player Tracker]   Enabled tracking for all clients.
+INFO    [11:51:02 | NRelay]           Adding Secondary Client
+INFO    [11:51:02 | NRelay]           Adding Third Client
+INFO    [11:51:02 | NRelay]           Adding Fourth Client
+INFO    [11:51:02 | Main Client]      Starting connection to USWest3
+SUCCESS [11:51:02 | NRelay]           Authorized Main Client
+INFO    [11:51:02 | NRelay]           Adding Fifth Client
+SUCCESS [11:51:02 | Main Client]      Connected to USWest3!
+INFO    [11:51:02 | Third Client]     Starting connection to USSouthWest
+SUCCESS [11:51:02 | NRelay]           Authorized Third Client
+INFO    [11:51:02 | Fourth Client]    Starting connection to USSouth3
+SUCCESS [11:51:02 | NRelay]           Authorized Fourth Client
+INFO    [11:51:03 | Main Client]      Connecting to Nexus
+SUCCESS [11:51:03 | Third Client]     Connected to USSouthWest!
+SUCCESS [11:51:03 | Fourth Client]    Connected to USSouth3!
+INFO    [11:51:03 | Third Client]     Connecting to Nexus
+INFO    [11:51:03 | Fourth Client]    Connecting to Nexus
+MESSAGE [11:51:03 | Unhandled Rejection]at: [object Promise] reason: Error: Incorrect login details were provided.
+INFO    [11:51:03 | Fifth Client]     Starting connection to USSouth2
+SUCCESS [11:51:03 | NRelay]           Authorized Fifth Client
+SUCCESS [11:51:03 | Main Client]      Connected!
+SUCCESS [11:51:03 | Fifth Client]     Connected to USSouth2!
+INFO    [11:51:03 | NRelay]           Adding Sixth Client
+SUCCESS [11:51:03 | Third Client]     Connected!
+SUCCESS [11:51:03 | Fourth Client]    Connected!
+INFO    [11:51:03 | Fifth Client]     Connecting to Nexus
+INFO    [11:51:04 | Secondary Client] Starting connection to USWest
+SUCCESS [11:51:04 | NRelay]           Authorized Secondary Client
+SUCCESS [11:51:04 | Fifth Client]     Connected!
+INFO    [11:51:04 | Sixth Client]     Starting connection to USSouth
+SUCCESS [11:51:04 | NRelay]           Authorized Sixth Client
+SUCCESS [11:51:04 | Secondary Client] Connected to USWest!
+SUCCESS [11:51:04 | Sixth Client]     Connected to USSouth!
+INFO    [11:51:04 | NRelay]           Adding Seventh Client
+INFO    [11:51:04 | Sixth Client]     Connecting to Nexus
+INFO    [11:51:04 | Secondary Client] Connecting to Nexus
+SUCCESS [11:51:05 | Secondary Client] Connected!
+SUCCESS [11:51:05 | Sixth Client]     Connected!
+INFO    [11:51:05 | Seventh Client]   Starting connection to USNorthWest
+SUCCESS [11:51:05 | NRelay]           Authorized Seventh Client
+SUCCESS [11:51:05 | Seventh Client]   Connected to USNorthWest!
+INFO    [11:51:05 | Seventh Client]   Connecting to Nexus
+INFO    [11:51:05 | NRelay]           Adding Eight Client
+ERROR   [11:51:05 | NRelay]           Eight Client: Account in use error. Reconnecting in 550 seconds.
+SUCCESS [11:51:05 | Seventh Client]   Connected!
+INFO    [11:51:06 | NRelay]           Adding Ninth Client
+INFO    [11:51:07 | NRelay]           Adding Tenth Client
+INFO    [11:51:07 | Ninth Client]     Starting connection to USMidWest
+SUCCESS [11:51:07 | NRelay]           Authorized Ninth Client
+SUCCESS [11:51:07 | Ninth Client]     Connected to USMidWest!
+INFO    [11:51:08 | Ninth Client]     Connecting to Nexus
+INFO    [11:51:08 | Tenth Client]     Starting connection to USEast3
+SUCCESS [11:51:08 | NRelay]           Authorized Tenth Client
+INFO    [11:51:08 | NRelay]           Adding Eleventh Client
+SUCCESS [11:51:08 | Ninth Client]     Connected!
+SUCCESS [11:51:08 | Tenth Client]     Connected to USEast3!
+INFO    [11:51:08 | Tenth Client]     Connecting to Nexus
+INFO    [11:51:09 | Eleventh Client]  Starting connection to USEast
+SUCCESS [11:51:09 | NRelay]           Authorized Eleventh Client
+SUCCESS [11:51:09 | Eleventh Client]  Connected to USEast!
+SUCCESS [11:51:09 | Tenth Client]     Connected!
+INFO    [11:51:09 | Eleventh Client]  Connecting to Nexus
+INFO    [11:51:09 | NRelay]           Adding Twelvth Client
+SUCCESS [11:51:10 | Eleventh Client]  Connected!
+INFO    [11:51:10 | Twelvth Client]   Starting connection to EUWest2
+SUCCESS [11:51:10 | NRelay]           Authorized Twelvth Client
+SUCCESS [11:51:10 | Twelvth Client]   Connected to EUWest2!
+INFO    [11:51:10 | NRelay]           Adding Thirteenth client
+INFO    [11:51:10 | Twelvth Client]   Connecting to Nexus
+SUCCESS [11:51:11 | Twelvth Client]   Connected!
+INFO    [11:51:11 | Thirteenth client]Starting connection to EUWest
+SUCCESS [11:51:11 | NRelay]           Authorized Thirteenth client
+SUCCESS [11:51:11 | Thirteenth client]Connected to EUWest!
+INFO    [11:51:11 | Thirteenth client]Connecting to Nexus
+INFO    [11:51:11 | NRelay]           Adding Fourteenth Client
+SUCCESS [11:51:12 | Thirteenth client]Connected!
+INFO    [11:51:12 | NRelay]           Adding Fifteenth Client
+INFO    [11:51:13 | Fourteenth Client]Starting connection to EUSouthWest
+SUCCESS [11:51:13 | NRelay]           Authorized Fourteenth Client
+SUCCESS [11:51:13 | Fourteenth Client]Connected to EUSouthWest!
+INFO    [11:51:13 | Fifteenth Client] Starting connection to EUSouth
+SUCCESS [11:51:13 | NRelay]           Authorized Fifteenth Client
+INFO    [11:51:13 | Fourteenth Client]Connecting to Nexus
+SUCCESS [11:51:13 | Fifteenth Client] Connected to EUSouth!
+INFO    [11:51:13 | Fifteenth Client] Connecting to Nexus
+INFO    [11:51:13 | NRelay]           Adding Sixteehnth Client
+SUCCESS [11:51:14 | Fifteenth Client] Connected!
+INFO    [11:51:14 | NRelay]           Adding Seventeenth Client
+INFO    [11:51:14 | Sixteehnth Client]Starting connection to EUNorth2
+SUCCESS [11:51:14 | NRelay]           Authorized Sixteehnth Client
+SUCCESS [11:51:15 | Sixteehnth Client]Connected to EUNorth2!
+INFO    [11:51:15 | Sixteehnth Client]Connecting to Nexus
+SUCCESS [11:51:15 | Fourteenth Client]Connected!
+INFO    [11:51:15 | NRelay]           Adding Eighteenth Client
+SUCCESS [11:51:15 | Sixteehnth Client]Connected!
+INFO    [11:51:17 | Seventeenth Client]Starting connection to EUNorth
+SUCCESS [11:51:17 | NRelay]           Authorized Seventeenth Client
+SUCCESS [11:51:17 | Seventeenth Client]Connected to EUNorth!
+INFO    [11:51:18 | Seventeenth Client]Connecting to Nexus
+INFO    [11:51:18 | Eighteenth Client]Starting connection to EUEast
+SUCCESS [11:51:18 | NRelay]           Authorized Eighteenth Client
+SUCCESS [11:51:19 | Eighteenth Client]Connected to EUEast!
+INFO    [11:51:19 | Eighteenth Client]Connecting to Nexus
+SUCCESS [11:51:19 | Eighteenth Client]Connected!
+SUCCESS [11:51:19 | Seventeenth Client]Connected!
+WARNING [11:51:19 | Main Client]      Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [11:51:19 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [11:51:20 | Third Client]     Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [11:51:20 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [11:51:20 | Fourth Client]    Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [11:51:20 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [11:51:20 | Fifth Client]     Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [11:51:20 | TypeError]        Cannot read property 'findPath' of undefined
+ERROR   [11:51:21 | Main Client]      Received failure 0: "Server restarting"
+WARNING [11:51:21 | Main Client]      The connection to USWest3 was closed.
+MESSAGE [11:51:21 | Main Client]      Reconnecting in 5 seconds
+WARNING [11:51:21 | Secondary Client] Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [11:51:21 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [11:51:21 | Sixth Client]     Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [11:51:21 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [11:51:22 | Seventh Client]   Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [11:51:22 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [11:51:25 | Ninth Client]     Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [11:51:25 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [11:51:25 | Tenth Client]     Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [11:51:25 | TypeError]        Cannot read property 'findPath' of undefined
+SUCCESS [11:51:26 | Main Client]      Connected to USWest3!
+INFO    [11:51:26 | Main Client]      Connecting to Nexus
+WARNING [11:51:26 | Eleventh Client]  Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [11:51:26 | TypeError]        Cannot read property 'findPath' of undefined
+SUCCESS [11:51:27 | Main Client]      Connected!
+WARNING [11:51:27 | Twelvth Client]   Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [11:51:27 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [11:51:28 | Thirteenth client]Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [11:51:28 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [11:51:30 | Fourteenth Client]Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [11:51:30 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [11:51:30 | Fifteenth Client] Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [11:51:30 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [11:51:32 | Sixteehnth Client]Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [11:51:32 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [11:51:35 | Seventeenth Client]Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [11:51:35 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [11:51:36 | Eighteenth Client]Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [11:51:36 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [11:51:43 | Main Client]      Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [11:51:43 | TypeError]        Cannot read property 'findPath' of undefined
+INFO    [12:00:15 | NRelay]           Adding Eight Client
+INFO    [12:00:18 | Eight Client]     Starting connection to USMidWest2
+SUCCESS [12:00:18 | Eight Client]     Connected to USMidWest2!
+INFO    [12:00:18 | Eight Client]     Connecting to Nexus
+SUCCESS [12:00:19 | Eight Client]     Connected!
+WARNING [12:00:35 | Eight Client]     Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [12:00:35 | TypeError]        Cannot read property 'findPath' of undefined
+MESSAGE [12:55:30 | Unhandled Rejection]at: [object Promise] reason: Error: read ECONNRESET
+WARNING [14:20:55 | Secondary Client] The connection to USWest was closed.
+MESSAGE [14:20:55 | Secondary Client] Reconnecting in 5 seconds
+WARNING [14:20:55 | Main Client]      The connection to USWest3 was closed.
+MESSAGE [14:20:55 | Main Client]      Reconnecting in 5 seconds
+WARNING [14:20:55 | Third Client]     The connection to USSouthWest was closed.
+MESSAGE [14:20:55 | Third Client]     Reconnecting in 5 seconds
+WARNING [14:20:55 | Fifth Client]     The connection to USSouth2 was closed.
+MESSAGE [14:20:55 | Fifth Client]     Reconnecting in 5 seconds
+ERROR   [14:20:58 | Fourth Client]    Received socket error: read ECONNRESET
+WARNING [14:20:58 | Fourth Client]    The connection to USSouth3 was closed.
+MESSAGE [14:20:58 | Fourth Client]    Reconnecting in 5 seconds
+WARNING [14:20:58 | Ninth Client]     The connection to USMidWest was closed.
+MESSAGE [14:20:58 | Ninth Client]     Reconnecting in 5 seconds
+ERROR   [14:21:21 | Secondary Client] Received socket error: connect ETIMEDOUT 54.153.32.11:2050
+WARNING [14:21:21 | Secondary Client] The connection to USWest was closed.
+MESSAGE [14:21:21 | Secondary Client] Reconnecting in 5 seconds
+ERROR   [14:21:21 | Main Client]      Received socket error: connect ETIMEDOUT 54.67.119.179:2050
+WARNING [14:21:21 | Main Client]      The connection to USWest3 was closed.
+MESSAGE [14:21:21 | Main Client]      Reconnecting in 5 seconds
+ERROR   [14:21:21 | Fifth Client]     Received socket error: connect ETIMEDOUT 54.183.236.213:2050
+ERROR   [14:21:21 | Third Client]     Received socket error: connect ETIMEDOUT 54.183.179.205:2050
+WARNING [14:21:21 | Third Client]     The connection to USSouthWest was closed.
+MESSAGE [14:21:21 | Third Client]     Reconnecting in 5 seconds
+WARNING [14:21:21 | Fifth Client]     The connection to USSouth2 was closed.
+MESSAGE [14:21:21 | Fifth Client]     Reconnecting in 5 seconds
+SUCCESS [14:21:24 | Fourth Client]    Connected to USSouth3!
+SUCCESS [14:21:24 | Ninth Client]     Connected to USMidWest!
+INFO    [14:21:31 | Ninth Client]     Connecting to Nexus
+INFO    [14:21:31 | Fourth Client]    Connecting to Nexus
+SUCCESS [14:21:32 | Secondary Client] Connected to USWest!
+SUCCESS [14:21:32 | Main Client]      Connected to USWest3!
+SUCCESS [14:21:32 | Fifth Client]     Connected to USSouth2!
+SUCCESS [14:21:32 | Third Client]     Connected to USSouthWest!
+WARNING [14:21:41 | Fourth Client]    Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [14:21:41 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [14:21:41 | Ninth Client]     Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [14:21:41 | TypeError]        Cannot read property 'findPath' of undefined
+SUCCESS [14:21:44 | Ninth Client]     Connected!
+SUCCESS [14:21:44 | Fourth Client]    Connected!
+INFO    [14:21:44 | Secondary Client] Connecting to Nexus
+WARNING [14:21:44 | Eight Client]     The connection to USMidWest2 was closed.
+MESSAGE [14:21:44 | Eight Client]     Reconnecting in 5 seconds
+INFO    [14:21:44 | Main Client]      Connecting to Nexus
+INFO    [14:21:44 | Fifth Client]     Connecting to Nexus
+INFO    [14:21:44 | Third Client]     Connecting to Nexus
+WARNING [14:21:49 | Secondary Client] Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [14:21:49 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [14:21:49 | Main Client]      Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [14:21:49 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [14:21:49 | Fifth Client]     Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [14:21:49 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [14:21:49 | Third Client]     Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [14:21:49 | TypeError]        Cannot read property 'findPath' of undefined
+SUCCESS [14:22:06 | Eight Client]     Connected to USMidWest2!
+SUCCESS [14:22:07 | Main Client]      Connected!
+SUCCESS [14:22:08 | Secondary Client] Connected!
+SUCCESS [14:22:08 | Fifth Client]     Connected!
+SUCCESS [14:22:08 | Third Client]     Connected!
+INFO    [14:22:14 | Eight Client]     Connecting to Nexus
+SUCCESS [14:22:17 | Eight Client]     Connected!
+ERROR   [14:22:21 | Ninth Client]     Received socket error: read ECONNRESET
+WARNING [14:22:21 | Ninth Client]     The connection to USMidWest was closed.
+MESSAGE [14:22:21 | Ninth Client]     Reconnecting in 5 seconds
+ERROR   [14:22:22 | Main Client]      Received socket error: read ECONNRESET
+ERROR   [14:22:22 | Fifth Client]     Received socket error: read ECONNRESET
+WARNING [14:22:22 | Fifth Client]     The connection to USSouth2 was closed.
+MESSAGE [14:22:22 | Fifth Client]     Reconnecting in 5 seconds
+WARNING [14:22:22 | Main Client]      The connection to USWest3 was closed.
+MESSAGE [14:22:22 | Main Client]      Reconnecting in 5 seconds
+ERROR   [14:22:22 | Fourth Client]    Received socket error: read ECONNRESET
+ERROR   [14:22:22 | Third Client]     Received socket error: read ECONNRESET
+WARNING [14:22:22 | Third Client]     The connection to USSouthWest was closed.
+MESSAGE [14:22:22 | Third Client]     Reconnecting in 5 seconds
+WARNING [14:22:22 | Fourth Client]    The connection to USSouth3 was closed.
+MESSAGE [14:22:22 | Fourth Client]    Reconnecting in 5 seconds
+WARNING [14:22:23 | Eight Client]     Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [14:22:23 | TypeError]        Cannot read property 'findPath' of undefined
+ERROR   [14:22:25 | Secondary Client] Received socket error: read ECONNRESET
+WARNING [14:22:25 | Secondary Client] The connection to USWest was closed.
+MESSAGE [14:22:25 | Secondary Client] Reconnecting in 5 seconds
+SUCCESS [14:22:42 | Fourth Client]    Connected to USSouth3!
+SUCCESS [14:22:43 | Secondary Client] Connected to USWest!
+SUCCESS [14:22:44 | Ninth Client]     Connected to USMidWest!
+ERROR   [14:22:48 | Main Client]      Received socket error: connect ETIMEDOUT 54.67.119.179:2050
+ERROR   [14:22:48 | Fifth Client]     Received socket error: connect ETIMEDOUT 54.183.236.213:2050
+WARNING [14:22:48 | Fifth Client]     The connection to USSouth2 was closed.
+MESSAGE [14:22:48 | Fifth Client]     Reconnecting in 5 seconds
+WARNING [14:22:48 | Main Client]      The connection to USWest3 was closed.
+MESSAGE [14:22:48 | Main Client]      Reconnecting in 5 seconds
+ERROR   [14:22:48 | Third Client]     Received socket error: connect ETIMEDOUT 54.183.179.205:2050
+WARNING [14:22:48 | Third Client]     The connection to USSouthWest was closed.
+MESSAGE [14:22:48 | Third Client]     Reconnecting in 5 seconds
+INFO    [14:22:50 | Ninth Client]     Connecting to Nexus
+INFO    [14:22:51 | Fourth Client]    Connecting to Nexus
+INFO    [14:22:51 | Secondary Client] Connecting to Nexus
+SUCCESS [14:22:58 | Ninth Client]     Connected!
+WARNING [14:23:00 | Fourth Client]    Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [14:23:00 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [14:23:00 | Secondary Client] Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [14:23:00 | TypeError]        Cannot read property 'findPath' of undefined
+SUCCESS [14:23:01 | Third Client]     Connected to USSouthWest!
+SUCCESS [14:23:01 | Main Client]      Connected to USWest3!
+SUCCESS [14:23:01 | Fifth Client]     Connected to USSouth2!
+SUCCESS [14:23:01 | Secondary Client] Connected!
+SUCCESS [14:23:01 | Fourth Client]    Connected!
+WARNING [14:23:02 | Ninth Client]     Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [14:23:02 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [14:23:09 | Eight Client]     The connection to USMidWest2 was closed.
+MESSAGE [14:23:09 | Eight Client]     Reconnecting in 5 seconds
+INFO    [14:23:13 | Main Client]      Connecting to Nexus
+INFO    [14:23:13 | Fifth Client]     Connecting to Nexus
+INFO    [14:23:13 | Third Client]     Connecting to Nexus
+WARNING [14:23:18 | Third Client]     Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [14:23:18 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [14:23:18 | Main Client]      Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [14:23:18 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [14:23:18 | Fifth Client]     Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [14:23:18 | TypeError]        Cannot read property 'findPath' of undefined
+SUCCESS [14:23:22 | Eight Client]     Connected to USMidWest2!
+ERROR   [14:23:27 | Ninth Client]     Received socket error: read ECONNRESET
+WARNING [14:23:27 | Ninth Client]     The connection to USMidWest was closed.
+MESSAGE [14:23:27 | Ninth Client]     Reconnecting in 5 seconds
+INFO    [14:23:29 | Eight Client]     Connecting to Nexus
+SUCCESS [14:23:32 | Third Client]     Connected!
+SUCCESS [14:23:32 | Main Client]      Connected!
+SUCCESS [14:23:32 | Fifth Client]     Connected!
+SUCCESS [14:23:36 | Eight Client]     Connected!
+SUCCESS [14:23:38 | Ninth Client]     Connected to USMidWest!
+WARNING [14:23:39 | Eight Client]     Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [14:23:39 | TypeError]        Cannot read property 'findPath' of undefined
+ERROR   [14:23:49 | Fifth Client]     Received socket error: read ECONNRESET
+WARNING [14:23:49 | Fifth Client]     The connection to USSouth2 was closed.
+MESSAGE [14:23:49 | Fifth Client]     Reconnecting in 5 seconds
+ERROR   [14:23:50 | Main Client]      Received socket error: read ECONNRESET
+WARNING [14:23:50 | Main Client]      The connection to USWest3 was closed.
+MESSAGE [14:23:50 | Main Client]      Reconnecting in 5 seconds
+WARNING [14:23:55 | Ninth Client]     Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [14:23:55 | TypeError]        Cannot read property 'findPath' of undefined
+INFO    [14:24:08 | Ninth Client]     Connecting to Nexus
+SUCCESS [14:24:08 | Fifth Client]     Connected to USSouth2!
+INFO    [14:24:11 | Fifth Client]     Connecting to Nexus
+SUCCESS [14:24:11 | Ninth Client]     Connected!
+SUCCESS [14:24:12 | Fifth Client]     Connected!
+SUCCESS [14:24:13 | Main Client]      Connected to USWest3!
+INFO    [14:24:13 | Main Client]      Connecting to Nexus
+SUCCESS [14:24:14 | Main Client]      Connected!
+WARNING [14:24:25 | Fifth Client]     Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [14:24:25 | TypeError]        Cannot read property 'findPath' of undefined
+WARNING [14:24:30 | Main Client]      Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [14:24:30 | TypeError]        Cannot read property 'findPath' of undefined
+ERROR   [14:24:40 | Fourth Client]    Received socket error: read ECONNRESET
+WARNING [14:24:40 | Fourth Client]    The connection to USSouth3 was closed.
+MESSAGE [14:24:40 | Fourth Client]    Reconnecting in 5 seconds
+ERROR   [14:24:42 | Eight Client]     Received socket error: read ECONNRESET
+WARNING [14:24:42 | Eight Client]     The connection to USMidWest2 was closed.
+MESSAGE [14:24:42 | Eight Client]     Reconnecting in 5 seconds
+SUCCESS [14:24:46 | Fourth Client]    Connected to USSouth3!
+INFO    [14:24:50 | Fourth Client]    Connecting to Nexus
+SUCCESS [14:24:50 | Eight Client]     Connected to USMidWest2!
+SUCCESS [14:25:01 | Fourth Client]    Connected!
+INFO    [14:25:02 | Eight Client]     Connecting to Nexus
+WARNING [14:25:03 | Fourth Client]    Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [14:25:03 | TypeError]        Cannot read property 'findPath' of undefined
+ERROR   [14:25:06 | Fifth Client]     Received socket error: read ECONNRESET
+WARNING [14:25:06 | Fifth Client]     The connection to USSouth2 was closed.
+MESSAGE [14:25:06 | Fifth Client]     Reconnecting in 5 seconds
+WARNING [14:25:07 | Eight Client]     Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [14:25:07 | TypeError]        Cannot read property 'findPath' of undefined
+ERROR   [14:25:10 | Secondary Client] Received socket error: read ECONNRESET
+WARNING [14:25:10 | Secondary Client] The connection to USWest was closed.
+MESSAGE [14:25:10 | Secondary Client] Reconnecting in 5 seconds
+SUCCESS [14:25:13 | Fifth Client]     Connected to USSouth2!
+INFO    [14:25:14 | Fifth Client]     Connecting to Nexus
+SUCCESS [14:25:16 | Eight Client]     Connected!
+SUCCESS [14:25:17 | Secondary Client] Connected to USWest!
+SUCCESS [14:25:18 | Fifth Client]     Connected!
+INFO    [14:25:19 | Secondary Client] Connecting to Nexus
+SUCCESS [14:25:21 | Secondary Client] Connected!
+ERROR   [14:25:27 | Eight Client]     Received socket error: read ECONNRESET
+WARNING [14:25:27 | Eight Client]     The connection to USMidWest2 was closed.
+MESSAGE [14:25:27 | Eight Client]     Reconnecting in 5 seconds
+WARNING [14:25:30 | Fifth Client]     Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [14:25:30 | TypeError]        Cannot read property 'findPath' of undefined
+SUCCESS [14:25:33 | Eight Client]     Connected to USMidWest2!
+INFO    [14:25:34 | Eight Client]     Connecting to Nexus
+WARNING [14:25:34 | Secondary Client] Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [14:25:34 | TypeError]        Cannot read property 'findPath' of undefined
+SUCCESS [14:25:35 | Eight Client]     Connected!
+WARNING [14:25:50 | Eight Client]     Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [14:25:50 | TypeError]        Cannot read property 'findPath' of undefined
+ERROR   [15:51:35 | Eleventh Client]  Received socket error: read ECONNRESET
+WARNING [15:51:35 | Eleventh Client]  The connection to USEast was closed.
+MESSAGE [15:51:35 | Eleventh Client]  Reconnecting in 5 seconds
+SUCCESS [15:51:41 | Eleventh Client]  Connected to USEast!
+INFO    [15:51:45 | Eleventh Client]  Connecting to Nexus
+SUCCESS [15:51:46 | Eleventh Client]  Connected!
+WARNING [15:51:58 | Eleventh Client]  Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [15:51:58 | TypeError]        Cannot read property 'findPath' of undefined
+ERROR   [15:54:21 | Fifteenth Client] Received socket error: read ECONNRESET
+WARNING [15:54:21 | Fifteenth Client] The connection to EUSouth was closed.
+MESSAGE [15:54:21 | Fifteenth Client] Reconnecting in 5 seconds
+SUCCESS [15:54:26 | Fifteenth Client] Connected to EUSouth!
+INFO    [15:54:26 | Fifteenth Client] Connecting to Nexus
+SUCCESS [15:54:27 | Fifteenth Client] Connected!
+WARNING [15:54:43 | Fifteenth Client] Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [15:54:43 | TypeError]        Cannot read property 'findPath' of undefined
+ERROR   [16:01:52 | Seventeenth Client]Received socket error: read ECONNRESET
+WARNING [16:01:52 | Seventeenth Client]The connection to EUNorth was closed.
+MESSAGE [16:01:52 | Seventeenth Client]Reconnecting in 5 seconds
+SUCCESS [16:01:59 | Seventeenth Client]Connected to EUNorth!
+INFO    [16:01:59 | Seventeenth Client]Connecting to Nexus
+SUCCESS [16:01:59 | Seventeenth Client]Connected!
+WARNING [16:02:16 | Seventeenth Client]Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [16:02:16 | TypeError]        Cannot read property 'findPath' of undefined
+ERROR   [16:57:45 | Eleventh Client]  Received socket error: read ECONNRESET
+WARNING [16:57:45 | Eleventh Client]  The connection to USEast was closed.
+MESSAGE [16:57:45 | Eleventh Client]  Reconnecting in 5 seconds
+SUCCESS [16:57:50 | Eleventh Client]  Connected to USEast!
+INFO    [16:57:51 | Eleventh Client]  Connecting to Nexus
+SUCCESS [16:57:53 | Eleventh Client]  Connected!
+WARNING [16:58:07 | Eleventh Client]  Pathfinding is not enabled. Please enable it in the acc-config.
+MESSAGE [16:58:07 | TypeError]        Cannot read property 'findPath' of undefined
