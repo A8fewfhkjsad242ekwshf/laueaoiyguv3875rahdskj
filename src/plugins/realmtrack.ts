@@ -12,6 +12,7 @@ import Discord = require('discord.js');
 import { IHeapItem } from '../services/pathfinding/heap-item';
 
 const fs = require("fs");
+const token = process.env.token
 
 var config = JSON.parse(fs.readFileSync("./realmtrack-config.json"));
 var realmPosList: string[][] = new Array();
